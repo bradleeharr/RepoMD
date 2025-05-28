@@ -7,7 +7,6 @@ A simple Python script to convert a GitHub repository to a single markdown file.
 ## Usage
 ```sh
 usage: repomd.py [-h] [--clean_dir CLEAN_DIR] [--clone_dir CLONE_DIR] [--max_mb MAX_MB] [--extensions EXTENSIONS] repo_url
-repomd.py: error: argument -h/--help: ignored explicit argument 'elp'
 ```
 
 ## Help
