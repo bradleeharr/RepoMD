@@ -26,4 +26,6 @@ options:
   --extensions EXTENSIONS
                         Comma-separated list of code file extensions
 ```
+
+### Acknowledgements
 * Generated with GPT-4.1
